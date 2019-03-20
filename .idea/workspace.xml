@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="379df86c-01d3-4696-bde2-69780756c773" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/try_springboot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/desarolladorslp/workshop/tryspringboot/TrySpringbootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/desarolladorslp/workshop/tryspringboot/TrySpringbootApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="379df86c-01d3-4696-bde2-69780756c773" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +15,9 @@
         <entry file="file://$PROJECT_DIR$/HELP.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="319">
+                <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -76,8 +68,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="Python 2.7 (trydjango1.9)" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7 (trydjango1.9)" />
+    <property name="jdk.selected.RUBY_MODULE" value="ruby-2.3.1-p112" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
@@ -147,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553045002590</updated>
-      <workItem from="1553045005040" duration="388000" />
+      <workItem from="1553045005040" duration="656000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="388000" />
+    <option name="totallyTimeSpent" value="656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="114" y="35" width="3086" height="1765" extended-state="6" />
@@ -197,7 +190,9 @@
     <entry file="file://$PROJECT_DIR$/HELP.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="319">
+            <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
